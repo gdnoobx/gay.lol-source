@@ -1,0 +1,48 @@
+[2026-08-28 12:51:32.226] [Xeno] [trace] Xeno is only maintained by Rizve. If you find any bugs, have any question, or just want to chat email me rizve@xeno.onl or DM me on Discord: .rizve
+[2026-08-28 12:51:32.227] [Xeno] [info] Version: Xeno - v1.3.60
+[2026-08-28 12:51:32.227] [Xeno] [info] Log file: C:\Users\bidea\source\repos\gay.lol\gay.lol\bin\x64\Debug\net8.0-windows\logs\2026-08-28_12-51-32.log
+[2026-08-28 12:51:32.231] [Xeno] [debug] Client Checker thread: 0x35ca78cb30
+[2026-08-28 12:51:32.231] [Xeno] [debug] Xeno Caching thread: 0x35ca78cb20
+[2026-08-28 12:51:32.231] [Xeno] [debug] WebSockets Cleaner thread: 0x35ca78cb10
+[2026-08-28 12:51:32.231] [Xeno] [debug] Xeno Server thread: 0x35ca78cb00
+[2026-08-28 12:51:32.231] [Cache] [info] Caching file: C:\Users\bidea\AppData\Local\Xeno\XENO_CACHE.bin
+[2026-08-28 12:51:32.233] [Server] [info] Xeno Server is Live on http://localhost:3110
+[2026-08-28 12:51:32.233] [Server] [info] Visit http://localhost:3110 to view any additional information
+[2026-08-28 12:51:32.245] [Xeno] [info] Creating new RBXClient: 24884
+[2026-08-28 12:51:32.245] [Xeno] [info] Creating new RBXClient: 16864
+[2026-08-28 12:51:32.245] [RBXClient] [info] [24884]: Initializing...
+[2026-08-28 12:51:32.245] [RBXClient] [info] [16864]: Initializing...
+[2026-08-28 12:51:32.245] [RBXClient] [info] [24884]: Version: version-ddf02245bdbb428c
+[2026-08-28 12:51:32.245] [RBXClient] [info] [16864]: Version: version-f5a60436d48947d3
+[2026-08-28 12:51:32.245] [Xeno] [debug] Created RBXClient instance @0x1d902a96500
+[2026-08-28 12:51:32.245] [Xeno] [info] Successfully created RBXClient: 24884
+[2026-08-28 12:51:32.245] [Xeno] [debug] Created RBXClient instance @0x1d9029d6c80
+[2026-08-28 12:51:32.245] [Xeno] [info] Successfully created RBXClient: 16864
+[2026-08-28 12:51:32.245] [RBXClient] [trace] [24884]: Attempting to retrieve RBXClient data...
+[2026-08-28 12:51:32.245] [RBXClient] [trace] [16864]: Attempting to retrieve RBXClient data...
+[2026-08-28 12:51:32.305] [RBXClient] [trace] [24884]: Successfully retrieved RBXClient data (Primary)
+[2026-08-28 12:51:32.306] [RBXClient] [error] [24884]: Offsets for version "version-ddf02245bdbb428c" not found. Using offsets from default version: version-2269b67864ab4ad4. Please report this to me (Rizve)
+[2026-08-28 12:51:32.306] [RBXClient] [trace] [16864]: Successfully retrieved RBXClient data (Primary)
+[2026-08-28 12:51:32.306] [RBXClient] [trace] [16864]: Offsets for version "version-f5a60436d48947d3" points to version "version-37a6cf8c67114d6d" with same offsets
+[2026-08-28 12:51:32.307] [RBXClient] [info] [24884]: Waiting for Client Window
+[2026-08-28 12:51:32.307] [RBXClient] [debug] [16864]: Fetching DataModel...
+[2026-08-28 12:51:32.377] [RBXClient] [debug] [16864]: 	String: 0x1b4ba6db590
+[2026-08-28 12:51:32.377] [RBXClient] [debug] [16864]: 	RenderView: 0x1b4b20a8280
+[2026-08-28 12:51:32.631] [RBXClient] [debug] [16864]: 16362 candidates found for the instruction
+[2026-08-28 12:51:32.647] [RBXClient] [debug] [16864]:  Instruction address: 0x1b3a0adba5a
+[2026-08-28 12:51:32.647] [RBXClient] [debug] [16864]: Bytecode Patch Watcher thread: 0x35cf27f420
+[2026-08-28 12:51:32.649] [RBXClient] [debug] [16864]: DataModel (Ugc): 0x1b4bc9b0e70
+[2026-08-28 12:51:32.650] [RBXClient] [debug] [16864]: LocalPlayer: 0x1b4b6b5c080
+[2026-08-28 12:51:32.650] [RBXClient] [debug] [bananman016 (16864)]: LocalPlayer Name: 'bananman016'
+[2026-08-28 12:51:32.650] [RBXClient] [trace] [bananman016 (16864)]: Attaching in-game using translation module.
+[2026-08-28 12:51:32.651] [Xeno] [debug] Patched translation module @0x1b4c1d99a80
+[2026-08-28 12:51:32.841] [RBXClient] [trace] [bananman016 (16864)]: Intercepted translation module @0x1b4c1d99a80
+[2026-08-28 12:51:32.914] [RBXClient] [trace] [bananman016 (16864)][::CRefresh]: Client DataModel refreshed
+[2026-08-28 12:51:32.928] [RBXClient] [trace] [bananman016 (16864)]: Attach ping received from client "bananman016", This indicates everything was successful.
+[2026-08-28 12:51:36.350] [Execution] [error] [24884]: DataModel address is invalid
+[2026-08-28 12:51:42.403] [RBXClient] [critical] [24884]: Timeout (10s) exceeded while waiting for window
+[2026-08-28 12:51:42.418] [RBXClient] [trace] [[!] Failed (24884)][::~RBXClient]: Client was closed and cleaned up successfully
+[2026-08-28 12:51:42.418] [Xeno] [info] Removed RBXClient: 24884
+[2026-08-28 12:51:47.428] [Xeno] [info] Cleaned up '24884' from InitializedClients
+[2026-08-28 12:54:08.438] [Execution] [warning] [16864]: Could not verify that the execution module has changed. Script may not be executed! (Your Roblox client cannot keep up and may be overloaded)
+[2026-08-28 12:55:03.293] [WebSocket] [error] [16864]: WebSocket returned error "(Unable to connect to echo.websocket.events on port 80, error: No such host is known. )" for url 'ws://echo.websocket.events'

@@ -1,0 +1,17 @@
+C:\Users\bidea\Desktop\APIs\gay.lol.exe
+C:\Users\bidea\Desktop\APIs\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\bidea\Desktop\APIs\gay.lol.dll
+C:\Users\bidea\Desktop\APIs\gay.lol.deps.json
+C:\Users\bidea\Desktop\APIs\gay.lol.runtimeconfig.json
+C:\Users\bidea\Desktop\APIs\gay.lol.pdb
+C:\Users\bidea\Desktop\APIs\Guna.UI2.dll
+C:\Users\bidea\Desktop\APIs\Newtonsoft.Json.dll
+C:\Users\bidea\Desktop\APIs\System.Management.dll
+C:\Users\bidea\Desktop\APIs\WebView2Loader.dll
+C:\Users\bidea\Desktop\APIs\Microsoft.Web.WebView2.Core.dll
+C:\Users\bidea\Desktop\APIs\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\bidea\Desktop\APIs\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\bidea\Desktop\APIs\QuorumAPI.dll
+C:\Users\bidea\Desktop\APIs\Microsoft.Web.WebView2.Core.xml
+C:\Users\bidea\Desktop\APIs\Microsoft.Web.WebView2.WinForms.xml
+C:\Users\bidea\Desktop\APIs\Microsoft.Web.WebView2.Wpf.xml

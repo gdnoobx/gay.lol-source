@@ -1,0 +1,42 @@
+[2026-08-27 19:35:36.681] [Xeno] [trace] Xeno is only maintained by Rizve. If you find any bugs, have any question, or just want to chat email me rizve@xeno.onl or DM me on Discord: .rizve
+[2026-08-27 19:35:36.681] [Xeno] [info] Version: Xeno - v1.3.60
+[2026-08-27 19:35:36.681] [Xeno] [info] Log file: C:\Users\bidea\source\repos\gay.lol\gay.lol\bin\x64\Debug\net8.0-windows\logs\2026-08-27_19-35-36.log
+[2026-08-27 19:35:36.682] [Xeno] [debug] Client Checker thread: 0x703837dcd0
+[2026-08-27 19:35:36.682] [Xeno] [debug] Xeno Caching thread: 0x703837dcc0
+[2026-08-27 19:35:36.682] [Xeno] [debug] WebSockets Cleaner thread: 0x703837dcb0
+[2026-08-27 19:35:36.682] [Cache] [info] Caching file: C:\Users\bidea\AppData\Local\Xeno\XENO_CACHE.bin
+[2026-08-27 19:35:36.683] [Xeno] [debug] Xeno Server thread: 0x703837dca0
+[2026-08-27 19:35:36.683] [Server] [info] Xeno Server is Live on http://localhost:3110
+[2026-08-27 19:35:36.683] [Server] [info] Visit http://localhost:3110 to view any additional information
+[2026-08-27 19:35:36.694] [Xeno] [info] Terminated same existing Xeno process: 16352
+[2026-08-27 19:35:36.694] [Xeno] [info] Creating new RBXClient: 43184
+[2026-08-27 19:35:36.694] [RBXClient] [info] [43184]: Initializing...
+[2026-08-27 19:35:36.695] [RBXClient] [info] [43184]: Version: version-17d504d2c9544583
+[2026-08-27 19:35:36.695] [Xeno] [debug] Created RBXClient instance @0x25082b860d0
+[2026-08-27 19:35:36.695] [Xeno] [info] Successfully created RBXClient: 43184
+[2026-08-27 19:35:36.695] [RBXClient] [trace] [43184]: Attempting to retrieve RBXClient data...
+[2026-08-27 19:35:36.805] [RBXClient] [trace] [43184]: Successfully retrieved RBXClient data (Primary)
+[2026-08-27 19:35:36.805] [RBXClient] [trace] [43184]: Offsets for version "version-17d504d2c9544583" points to version "version-2269b67864ab4ad4" with same offsets
+[2026-08-27 19:35:36.806] [RBXClient] [debug] [43184]: Fetching DataModel...
+[2026-08-27 19:35:36.870] [RBXClient] [debug] [43184]: 	String: 0x174dbd66f90
+[2026-08-27 19:35:36.870] [RBXClient] [debug] [43184]: 	RenderView: 0x174d115e880
+[2026-08-27 19:35:37.080] [RBXClient] [debug] [43184]: 3079 candidates found for the instruction
+[2026-08-27 19:35:37.083] [RBXClient] [debug] [43184]:  Instruction address: 0x173bfaf6f1a
+[2026-08-27 19:35:37.083] [RBXClient] [debug] [43184]: Bytecode Patch Watcher thread: 0x703c5bf7d0
+[2026-08-27 19:35:37.084] [RBXClient] [debug] [43184]: DataModel (Ugc): 0x174dde62650
+[2026-08-27 19:35:37.087] [RBXClient] [debug] [43184]: LocalPlayer: 0x174d7ae4880
+[2026-08-27 19:35:37.087] [RBXClient] [debug] [bananman016 (43184)]: LocalPlayer Name: 'bananman016'
+[2026-08-27 19:35:37.089] [RBXClient] [trace] [bananman016 (43184)]: Attaching in-game using translation module.
+[2026-08-27 19:35:37.090] [Xeno] [debug] Patched translation module @0x174e46e2380
+[2026-08-27 19:35:37.244] [RBXClient] [trace] [bananman016 (43184)]: Intercepted translation module @0x174e46e2380
+[2026-08-27 19:35:37.269] [RBXClient] [trace] [bananman016 (43184)][::CRefresh]: Client DataModel refreshed
+[2026-08-27 19:35:37.293] [RBXClient] [trace] [bananman016 (43184)]: Attach ping received from client "bananman016", This indicates everything was successful.
+[2026-08-27 19:36:31.353] [Execution] [warning] [43184]: Could not verify that the execution module has changed. Script may not be executed! (Your Roblox client cannot keep up and may be overloaded)
+[2026-08-27 19:36:48.585] [Execution] [warning] [43184]: Could not verify that the execution module has changed. Script may not be executed! (Your Roblox client cannot keep up and may be overloaded)
+[2026-08-27 19:36:49.287] [Execution] [warning] [43184]: Could not verify that the execution module has changed. Script may not be executed! (Your Roblox client cannot keep up and may be overloaded)
+[2026-08-27 19:36:58.296] [Execution] [warning] [43184]: Could not verify that the execution module has changed. Script may not be executed! (Your Roblox client cannot keep up and may be overloaded)
+[2026-08-27 19:36:59.172] [Execution] [warning] [43184]: Could not verify that the execution module has changed. Script may not be executed! (Your Roblox client cannot keep up and may be overloaded)
+[2026-08-27 19:36:59.764] [Execution] [warning] [43184]: Could not verify that the execution module has changed. Script may not be executed! (Your Roblox client cannot keep up and may be overloaded)
+[2026-08-27 19:37:35.265] [RBXClient] [trace] [bananman016 (43184)][::~RBXClient]: Client was closed and cleaned up successfully
+[2026-08-27 19:37:35.265] [Xeno] [info] Removed RBXClient: 43184
+[2026-08-27 19:37:40.281] [Xeno] [info] Cleaned up '43184' from InitializedClients

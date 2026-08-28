@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "MeB7auBhLDs=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bidea\\source\\repos\\gay.lol\\gay.lol\\gay.lol.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bidea\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.8\\guna.ui2.winforms.2.0.4.8.nupkg.sha512",
+    "C:\\Users\\bidea\\.nuget\\packages\\microsoft.web.webview2\\1.0.4129.50\\microsoft.web.webview2.1.0.4129.50.nupkg.sha512",
+    "C:\\Users\\bidea\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512",
+    "C:\\Users\\bidea\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\bidea\\.nuget\\packages\\system.management\\7.0.0\\system.management.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

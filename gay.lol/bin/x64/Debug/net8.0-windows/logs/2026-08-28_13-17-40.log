@@ -1,0 +1,24 @@
+[2026-08-28 13:17:40.367] [Xeno] [trace] Xeno is only maintained by Rizve. If you find any bugs, have any question, or just want to chat email me rizve@xeno.onl or DM me on Discord: .rizve
+[2026-08-28 13:17:40.367] [Xeno] [info] Version: Xeno - v1.3.60
+[2026-08-28 13:17:40.367] [Xeno] [info] Log file: C:\Users\bidea\source\repos\gay.lol\gay.lol\bin\x64\Debug\net8.0-windows\logs\2026-08-28_13-17-40.log
+[2026-08-28 13:17:40.368] [Xeno] [debug] Client Checker thread: 0x86cc59cfc0
+[2026-08-28 13:17:40.368] [Xeno] [debug] Xeno Caching thread: 0x86cc59cfb0
+[2026-08-28 13:17:40.368] [Xeno] [debug] WebSockets Cleaner thread: 0x86cc59cfa0
+[2026-08-28 13:17:40.368] [Cache] [info] Caching file: C:\Users\bidea\AppData\Local\Xeno\XENO_CACHE.bin
+[2026-08-28 13:17:40.369] [Xeno] [debug] Xeno Server thread: 0x86cc59cf90
+[2026-08-28 13:17:40.369] [Server] [info] Xeno Server is Live on http://localhost:3110
+[2026-08-28 13:17:40.369] [Server] [info] Visit http://localhost:3110 to view any additional information
+[2026-08-28 13:17:40.381] [Xeno] [info] Creating new RBXClient: 36204
+[2026-08-28 13:17:40.381] [RBXClient] [info] [36204]: Initializing...
+[2026-08-28 13:17:40.381] [RBXClient] [info] [36204]: Version: version-ddf02245bdbb428c
+[2026-08-28 13:17:40.381] [Xeno] [debug] Created RBXClient instance @0x20e84708450
+[2026-08-28 13:17:40.381] [Xeno] [info] Successfully created RBXClient: 36204
+[2026-08-28 13:17:40.381] [RBXClient] [trace] [36204]: Attempting to retrieve RBXClient data...
+[2026-08-28 13:17:40.443] [RBXClient] [trace] [36204]: Successfully retrieved RBXClient data (Primary)
+[2026-08-28 13:17:40.443] [RBXClient] [error] [36204]: Offsets for version "version-ddf02245bdbb428c" not found. Using offsets from default version: version-2269b67864ab4ad4. Please report this to me (Rizve)
+[2026-08-28 13:17:40.444] [RBXClient] [info] [36204]: Waiting for Client Window
+[2026-08-28 13:17:44.431] [Execution] [error] [36204]: DataModel address is invalid
+[2026-08-28 13:17:50.487] [RBXClient] [critical] [36204]: Timeout (10s) exceeded while waiting for window
+[2026-08-28 13:17:50.534] [RBXClient] [trace] [[!] Failed (36204)][::~RBXClient]: Client was closed and cleaned up successfully
+[2026-08-28 13:17:50.535] [Xeno] [info] Removed RBXClient: 36204
+[2026-08-28 13:17:55.541] [Xeno] [info] Cleaned up '36204' from InitializedClients

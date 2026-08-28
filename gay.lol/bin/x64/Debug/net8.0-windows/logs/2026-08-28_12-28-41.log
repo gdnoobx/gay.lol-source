@@ -1,0 +1,38 @@
+[2026-08-28 12:28:41.637] [Xeno] [trace] Xeno is only maintained by Rizve. If you find any bugs, have any question, or just want to chat email me rizve@xeno.onl or DM me on Discord: .rizve
+[2026-08-28 12:28:41.638] [Xeno] [info] Version: Xeno - v1.3.60
+[2026-08-28 12:28:41.638] [Xeno] [info] Log file: C:\Users\bidea\source\repos\gay.lol\gay.lol\bin\x64\Debug\net8.0-windows\logs\2026-08-28_12-28-41.log
+[2026-08-28 12:28:41.642] [Xeno] [debug] Client Checker thread: 0x1402f7ce70
+[2026-08-28 12:28:41.642] [Xeno] [debug] Xeno Caching thread: 0x1402f7ce60
+[2026-08-28 12:28:41.642] [Xeno] [debug] WebSockets Cleaner thread: 0x1402f7ce50
+[2026-08-28 12:28:41.642] [Cache] [info] Caching file: C:\Users\bidea\AppData\Local\Xeno\XENO_CACHE.bin
+[2026-08-28 12:28:41.642] [Xeno] [debug] Xeno Server thread: 0x1402f7ce40
+[2026-08-28 12:28:41.643] [Server] [info] Xeno Server is Live on http://localhost:3110
+[2026-08-28 12:28:41.643] [Server] [info] Visit http://localhost:3110 to view any additional information
+[2026-08-28 12:28:41.655] [Xeno] [info] Creating new RBXClient: 17088
+[2026-08-28 12:28:41.655] [RBXClient] [info] [17088]: Initializing...
+[2026-08-28 12:28:41.655] [RBXClient] [info] [17088]: Version: version-f5a60436d48947d3
+[2026-08-28 12:28:41.655] [Xeno] [debug] Created RBXClient instance @0x16a827d0f50
+[2026-08-28 12:28:41.655] [Xeno] [info] Successfully created RBXClient: 17088
+[2026-08-28 12:28:41.655] [RBXClient] [trace] [17088]: Attempting to retrieve RBXClient data...
+[2026-08-28 12:28:41.725] [RBXClient] [trace] [17088]: Successfully retrieved RBXClient data (Primary)
+[2026-08-28 12:28:41.725] [RBXClient] [trace] [17088]: Offsets for version "version-f5a60436d48947d3" points to version "version-37a6cf8c67114d6d" with same offsets
+[2026-08-28 12:28:41.726] [RBXClient] [debug] [17088]: Fetching DataModel...
+[2026-08-28 12:28:41.865] [RBXClient] [debug] [17088]: 	String: 0x1ec4f6b4f10
+[2026-08-28 12:28:41.865] [RBXClient] [debug] [17088]: 	RenderView: 0x1ec46d88280
+[2026-08-28 12:28:42.049] [RBXClient] [debug] [17088]: 3228 candidates found for the instruction
+[2026-08-28 12:28:42.051] [RBXClient] [debug] [17088]:  Instruction address: 0x1eb3306ba5a
+[2026-08-28 12:28:42.051] [RBXClient] [debug] [17088]: Bytecode Patch Watcher thread: 0x14074ff400
+[2026-08-28 12:28:42.052] [RBXClient] [debug] [17088]: DataModel (Ugc): 0x1ec4e7e7a70
+[2026-08-28 12:28:42.053] [RBXClient] [debug] [17088]: LocalPlayer: 0x1ec658d4880
+[2026-08-28 12:28:42.053] [RBXClient] [debug] [bananman016 (17088)]: LocalPlayer Name: 'bananman016'
+[2026-08-28 12:28:42.053] [RBXClient] [trace] [bananman016 (17088)]: Attaching in-game using translation module.
+[2026-08-28 12:28:42.054] [Xeno] [debug] Patched translation module @0x1ec55675640
+[2026-08-28 12:28:42.221] [RBXClient] [trace] [bananman016 (17088)]: Intercepted translation module @0x1ec55675640
+[2026-08-28 12:28:42.238] [RBXClient] [trace] [bananman016 (17088)][::CRefresh]: Client DataModel refreshed
+[2026-08-28 12:28:42.247] [RBXClient] [trace] [bananman016 (17088)]: Attach ping received from client "bananman016", This indicates everything was successful.
+[2026-08-28 12:28:59.607] [Execution] [warning] [17088]: Could not verify that the execution module has changed. Script may not be executed! (Your Roblox client cannot keep up and may be overloaded)
+[2026-08-28 12:31:01.306] [RBXClient] [trace] [bananman016 (17088)][::PlayerRemoving]: Player leaving ping recieved. We have to reattach.
+[2026-08-28 12:31:01.306] [RBXClient] [trace] [bananman016 (17088)][::PlayerRemoving]: DataModel is being loaded...
+[2026-08-28 12:31:01.376] [RBXClient] [trace] 	[bananman016 (17088)][::PlayerRemoving]: DataModel was loaded successfully
+[2026-08-28 12:31:01.377] [RBXClient] [trace] [bananman016 (17088)][::PlayerRemoving]: DataModel (LuaApp): 0x1ec3f7ac270
+[2026-08-28 12:31:01.377] [RBXClient] [info] [bananman016 (17088)]: Waiting for you to enter a game...

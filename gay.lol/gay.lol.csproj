@@ -1,0 +1,60 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Platforms>AnyCPU;x64</Platforms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Guna.UI2.WinForms" Version="2.0.4.8" />
+    <PackageReference Include="Microsoft.Web.WebView2" Version="1.0.4129.50" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="QuorumAPI">
+      <HintPath>..\..\..\..\Desktop\QuorumAPI.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Properties\Resources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="icon.ico" />
+  </ItemGroup>
+
+  <Target Name="CopyRuntimeAssets" AfterTargets="_CopyFilesMarkedCopyLocal;Publish">
+    <PropertyGroup>
+      <_PubDir>$([MSBuild]::EnsureTrailingSlash('$(PublishDir)'))</_PubDir>
+      <_MonacoSrc>$(MSBuildProjectDirectory)\bin\x64\Debug\net8.0-windows\Monaco</_MonacoSrc>
+    </PropertyGroup>
+    <ItemGroup>
+      <_MonacoFiles Include="$(_MonacoSrc)\**\*" />
+    </ItemGroup>
+    <Copy SourceFiles="@(_MonacoFiles)"
+          DestinationFiles="@(_MonacoFiles->'$(_PubDir)Monaco\%(RecursiveDir)%(Filename)%(Extension)')"
+          SkipUnchangedFiles="false"
+          Condition="Exists('$(_MonacoSrc)')" />
+    <Copy SourceFiles="$(MSBuildProjectDirectory)\icon.ico"
+          DestinationFiles="$(_PubDir)icon.ico"
+          Condition="Exists('$(MSBuildProjectDirectory)\icon.ico')" />
+  </Target>
+
+</Project>

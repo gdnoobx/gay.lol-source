@@ -1,0 +1,21 @@
+[2026-08-28 12:20:24.685] [Xeno] [trace] Xeno is only maintained by Rizve. If you find any bugs, have any question, or just want to chat email me rizve@xeno.onl or DM me on Discord: .rizve
+[2026-08-28 12:20:24.686] [Xeno] [info] Version: Xeno - v1.3.60
+[2026-08-28 12:20:24.686] [Xeno] [info] Log file: C:\Users\bidea\source\repos\gay.lol\gay.lol\bin\x64\Debug\net8.0-windows\logs\2026-08-28_12-20-24.log
+[2026-08-28 12:20:24.689] [Xeno] [debug] Client Checker thread: 0xbd1e37cc00
+[2026-08-28 12:20:24.689] [Xeno] [debug] Xeno Caching thread: 0xbd1e37cbf0
+[2026-08-28 12:20:24.689] [Xeno] [debug] WebSockets Cleaner thread: 0xbd1e37cbe0
+[2026-08-28 12:20:24.689] [Cache] [info] Caching file: C:\Users\bidea\AppData\Local\Xeno\XENO_CACHE.bin
+[2026-08-28 12:20:24.689] [Xeno] [debug] Xeno Server thread: 0xbd1e37cbd0
+[2026-08-28 12:20:24.690] [Server] [info] Xeno Server is Live on http://localhost:3110
+[2026-08-28 12:20:24.690] [Server] [info] Visit http://localhost:3110 to view any additional information
+[2026-08-28 12:20:24.703] [Xeno] [info] Creating new RBXClient: 40736
+[2026-08-28 12:20:24.703] [RBXClient] [info] [40736]: Initializing...
+[2026-08-28 12:20:24.703] [RBXClient] [info] [40736]: Version: version-ddf02245bdbb428c
+[2026-08-28 12:20:24.703] [Xeno] [debug] Created RBXClient instance @0x2a906c42a10
+[2026-08-28 12:20:24.704] [Xeno] [info] Successfully created RBXClient: 40736
+[2026-08-28 12:20:24.704] [RBXClient] [trace] [40736]: Attempting to retrieve RBXClient data...
+[2026-08-28 12:20:24.769] [RBXClient] [trace] [40736]: Successfully retrieved RBXClient data (Primary)
+[2026-08-28 12:20:24.770] [RBXClient] [error] [40736]: Offsets for version "version-ddf02245bdbb428c" not found. Using offsets from default version: version-2269b67864ab4ad4. Please report this to me (Rizve)
+[2026-08-28 12:20:24.771] [RBXClient] [info] [40736]: Waiting for Client Window
+[2026-08-28 12:20:28.780] [Execution] [error] [40736]: DataModel address is invalid
+[2026-08-28 12:20:31.049] [Execution] [error] [40736]: DataModel address is invalid
